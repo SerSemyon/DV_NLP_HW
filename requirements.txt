@@ -1,0 +1,4 @@
+corus
+pandas
+nltk
+scikit-learn
