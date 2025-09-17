@@ -1,0 +1,9 @@
+corus
+pandas
+nltk
+scikit-learn
+gensim
+natasha
+matplotlib
+torch
+subword-nmt
