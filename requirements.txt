@@ -1,0 +1,15 @@
+corus
+pandas
+nltk
+scikit-learn
+gensim
+natasha
+matplotlib
+torch
+subword-nmt
+datasets
+evaluate
+seqeval
+transformers
+tabulate
+accelerate
